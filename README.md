@@ -5,7 +5,8 @@ A brief description of what this project does and who it's for
 
 # Pizza Price Prediction with Machine Learning
 
-![Pizza](https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg)
+![pizza-3007395_1280](https://github.com/mission722/ML-Pizza-Price/assets/85105276/fa4ee3dd-0651-4a06-8e8e-bb7b6af8789c)
+
 
 This repository contains a simple yet delicious project - a Pizza Price Prediction model using Machine Learning. If you've ever wondered how much your dream pizza might cost based on its size and the number of toppings, this project is for you! Using a scenario-based dataset that includes the pizza size (small, medium, or large) and the number of toppings, our model predicts the price with the help of a linear regression algorithm from the scikit-learn library.
 
